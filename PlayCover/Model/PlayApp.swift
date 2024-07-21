@@ -297,21 +297,10 @@ class PlayApp: BaseApp {
     }
 
     static let PROHIBITED_APPS = [
-        "com.activision.callofduty.shooter",
-        "com.ea.ios.apexlegendsmobilefps",
-        "com.tencent.tmgp.cod",
-        "com.tencent.ig",
-        "com.pubg.newstate",
-        "com.pubg.imobile",
-        "com.tencent.tmgp.pubgmhd",
-        "com.dts.freefireth",
-        "com.dts.freefiremax",
-        "vn.vng.codmvn",
-        "com.ngame.allstar.eu",
-        "com.axlebolt.standoff2"
+        "com.iosemu.fuckplaycoverlol
     ]
 
     static let MALICIOUS_APPS = [
-        "com.zhiliaoapp.musically"
+        "com.lol.tiktokontop"
     ]
 }
