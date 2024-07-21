@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![GPLv3 License][license-shield]][license-url]
-[![Weblate](https://img.shields.io/weblate/progress/playcover?style=for-the-badge)](https://hosted.weblate.org/projects/playcover/playcover/)
 </h1>
 
 
@@ -13,11 +12,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/PlayCover/PlayCover">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PlayCover</h3>
+  <h3 align="center">iosEmu</h3>
 
   <p align="center">
     Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
